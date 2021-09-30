@@ -1,0 +1,4 @@
+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
+
+
+!!!Введи это для добавления файлов на сайт Git!!!: git remote set-url origin https://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@github.com/Nellianna/hangman.git
